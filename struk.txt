@@ -1,0 +1,9 @@
+========| Struk Pesanan |========
+1. paket hemat irit x 1 | Harga: Rp14.000,00
+2. mie goreng x 2 | Harga: Rp30.000,00
+3. aqua x 3 | Harga: Rp12.000,00
+Total Sebelum Diskon: Rp56.000,00
+Diskon: - Rp0,00
+Pajak (10%): + Rp5.600,00
+Total Akhir: Rp61.600,00
+===============================

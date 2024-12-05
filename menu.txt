@@ -1,0 +1,4 @@
+Diskon,paket hemat irit,20000.0,30.0
+Makanan,mie goreng,15000.0
+Makanan,nasi goreng,20000.0
+Minuman,aqua,4000.0
